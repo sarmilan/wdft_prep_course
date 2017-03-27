@@ -35,23 +35,29 @@ div
 }
 
 .c1 {
+	float:right;
 }
 
 .d1 {
+	float:right;
 }
 
 /* SECOND ROW : DISPLAY */
 
 .a2 {
+	display: block;
 }
 
 .b2 {
+	display: none;
 }
 
 .c2 {
+	display: inline;
 }
 
 .d2 {
+	display: block;
 }
 
 /* THIRD ROW : POSITION */
